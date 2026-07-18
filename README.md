@@ -14,8 +14,7 @@ I enjoy exploring new technologies, developing real-world projects, and continuo
   
 ## 💻 Skills
 
-### Programming Languages 
-Python, Java, JavaScript,  SQL, Prolog
+**Programming Languages:** **Python**, **Java**, JavaScript, SQL, Prolog
 ###  Web Technologies
 HTML, CSS, React, PHP
 ### Concepts & Knowledge
