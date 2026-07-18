@@ -14,29 +14,18 @@ I enjoy exploring new technologies, developing real-world projects, and continuo
   
 ## 💻 Skills
 
-**Programming Languages:** **Python**, **Java**, JavaScript, SQL, Prolog
-###  Web Technologies
-HTML, CSS, React, PHP
-### Concepts & Knowledge
-Object-Oriented Programming (OOP), Artificial Intelligence, AI Search Algorithms (BFS, DFS, A*), Data Structures, Software Quality Assurance, Database Management
-### Databases
-MySQL
-### Tools & Technologies
-Git & GitHub, Figma, Adobe Photoshop, Adobe Illustrator, XAMPP, Visual Studio Code, Jupyter Notebook
+**Programming Languages:** Python, Java, JavaScript, SQL, Prolog
+**Web Technologies:** HTML, CSS, React, PHP
+**Concepts & Knowledge:** Object-Oriented Programming (OOP), Artificial Intelligence, AI Search Algorithms (BFS, DFS, A*), Data Structures, Software Quality Assurance, Database Management
+**Databases:** MySQL
+**Tools & Technologies:** Git & GitHub, Figma, Adobe Photoshop, Adobe Illustrator, XAMPP, Visual Studio Code, Jupyter Notebook
 
 ## 📌 Projects
 
-- ###  Credit Card Fraud Detection
-AI-based fraud detection system developed using Python, Machine Learning, and a Kaggle dataset.
-
-- ### Student Management System
-Java application developed using Object-Oriented Programming concepts.
-
-- ### Simple Calculator
-Beginner-friendly calculator application built using Python.
-
-- ### Book Store Web Application
-Web-based application developed using HTML, CSS, JavaScript, and PHP.
+- **Credit Card Fraud Detection-** AI-based fraud detection system developed using Python, Machine Learning, and a Kaggle dataset.
+- **Student Management System-** Java application developed using Object-Oriented Programming concepts.
+- **Simple Calculator-** Beginner-friendly calculator application built using Python.
+- **Book Store Web Application-** Web-based application developed using HTML, CSS, JavaScript, and PHP.
 
 ## 🌱 Currently Growing In
 
