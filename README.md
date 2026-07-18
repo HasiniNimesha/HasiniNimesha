@@ -33,10 +33,10 @@ AI-based fraud detection system developed using Python, Machine Learning, and a 
 - ### Student Management System
 Java application developed using Object-Oriented Programming concepts.
 
-- ### - Simple Calculator
+- ### Simple Calculator
 Beginner-friendly calculator application built using Python.
 
-- ### - Book Store Web Application
+- ### Book Store Web Application
 Web-based application developed using HTML, CSS, JavaScript, and PHP.
 
 ## 🌱 Currently Growing In
