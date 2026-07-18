@@ -27,21 +27,21 @@ Git & GitHub, Figma, Adobe Photoshop, Adobe Illustrator, XAMPP, Visual Studio Co
 
 ## 📌 Projects
 
-### - Credit Card Fraud Detection
+- ###  Credit Card Fraud Detection
 AI-based fraud detection system developed using Python, Machine Learning, and a Kaggle dataset.
 
-### - Student Management System
+- ### Student Management System
 Java application developed using Object-Oriented Programming concepts.
 
-### - Simple Calculator
+- ### - Simple Calculator
 Beginner-friendly calculator application built using Python.
 
-### - Book Store Web Application
+- ### - Book Store Web Application
 Web-based application developed using HTML, CSS, JavaScript, and PHP.
 
 ## 🌱 Currently Growing In
 
-- Advanced JavaScript, React Development, Machine Learning Applications, Software Engineering Practices, backend development, and building more real world applications.
+Advanced JavaScript, React Development, Machine Learning Applications, Software Engineering Practices, backend development, and building more real world applications.
 
 ## 🎯 My Goal
 
