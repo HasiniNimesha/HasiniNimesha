@@ -25,6 +25,7 @@ I enjoy exploring new technologies, developing real-world projects, and continuo
 - **Student Management System-** Java application developed using Object-Oriented Programming concepts.
 - **Simple Calculator-** Beginner-friendly calculator application built using Python.
 - **Book Store Web Application-** Web-based application developed using HTML, CSS, JavaScript, and PHP.
+- **creamy-delights-uiux-** A mobile UI/UX design for an Ice Cream Ordering App created in Figma.
 
 ## 🌱 Currently Growing In
 
